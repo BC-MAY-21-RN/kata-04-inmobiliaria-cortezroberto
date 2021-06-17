@@ -1,0 +1,70 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvcGVydHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "The Willows",
+        "address": "3517 W. Gray St. Utica",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFeet": "330ft²",
+        "cost": "$440/m",
+        "score": 4.7
+      },
+      {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvcGVydHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Orchard House",
+        "address": "3518 W. Black Board",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFeet": "230ft²",
+        "cost": "$240/m",
+        "score": 4.3
+      },
+      {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1600585153490-76fb20a32601?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb3BlcnR5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Corner House",
+        "address": "432 Av. Whiteboard",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFeet": "330ft²",
+        "cost": "$640/m",
+        "score": 4.9
+      },
+      {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHByb3BlcnR5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Star Building",
+        "address": "300 W. Blue bird",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFeet": "290ft²",
+        "cost": "$330/m",
+        "score": 4.5
+      },
+      {
+        "id": 5,
+        "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fHByb3BlcnR5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "White House",
+        "address": "3517 W. Gray St. Utica",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFeet": "230ft²",
+        "cost": "$440/m",
+        "score": 4.8
+      },
+      {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fHByb3BlcnR5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Blue Bird",
+        "address": "3667 W. White Beach",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFeet": "630ft²",
+        "cost": "$640/m",
+        "score": 4.3
+      }
+    ]
+  }
