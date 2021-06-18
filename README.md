@@ -5,6 +5,10 @@
 ![Cover](img/cover.jpg)
 <span>Photo by <a href="https://unsplash.com/@jd_alon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jose Alonso</a> on <a href="https://unsplash.com/s/photos/rental?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
+## CodeClimate Badge
+
+  [![Maintainability](https://api.codeclimate.com/v1/badges/21ed3f7c6ddc8dbb4791/maintainability)](https://codeclimate.com/github/BC-MAY-21-RN/kata-04-inmobiliaria-cortezroberto/maintainability)
+  
 ## Pre-requisitos
 -  React Native
    - Instalar el entorno de desarrollo [**:warning: utiliza la opción React Native CLI Quickstart NO utilizar Expo**](https://reactnative.dev/docs/environment-setup)
